@@ -1,0 +1,17 @@
+from turtle import *
+speed(0)
+left(90)
+widt = int(input("width is: "))
+size = int(input("size is: "))
+width(widt)
+forward(size)
+color("green")
+backward(size/3)
+right(90)
+backward(size/6)
+begin_fill()
+for i in range(4):
+    forward(size/3)
+    left(90)
+end_fill()
+exitonclick()
