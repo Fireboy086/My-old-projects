@@ -297,7 +297,7 @@ while running:
     # Update the display
     pygame.display.update()
     
-    # Limit the frame rate
+    # Limit the frame rate (but not as severely as before)
     pygame.time.delay(10)  # Reduced delay for smoother gameplay
 
 # Clean up

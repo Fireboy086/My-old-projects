@@ -1,0 +1,100 @@
+2025-02-25 17:57:28,498 - INFO - Server starting up...
+2025-02-25 17:57:28,498 - INFO - Server listening on 127.0.0.1:12312
+2025-02-25 17:57:28,498 - INFO - Server main loop starting - waiting for connections
+2025-02-25 17:57:38,124 - INFO - Accepted connection from ('127.0.0.1', 54942)
+2025-02-25 17:57:38,125 - INFO - New connection from ('127.0.0.1', 54942)
+2025-02-25 17:57:44,988 - INFO - Client ('127.0.0.1', 54942) sent nickname: asas
+2025-02-25 17:57:44,988 - INFO - Client ('127.0.0.1', 54942) connected with nickname asas
+2025-02-25 17:57:44,988 - INFO - Sending initial position to asas: 575,218
+2025-02-25 17:58:24,567 - INFO - Accepted connection from ('127.0.0.1', 54972)
+2025-02-25 17:58:24,568 - INFO - New connection from ('127.0.0.1', 54972)
+2025-02-25 17:58:29,911 - INFO - Client ('127.0.0.1', 54972) sent nickname: assassaas
+2025-02-25 17:58:29,911 - INFO - Client ('127.0.0.1', 54972) connected with nickname assassaas
+2025-02-25 17:58:29,911 - INFO - Sending initial position to assassaas: 266,365
+2025-02-25 17:58:44,763 - INFO - Client ('127.0.0.1', 54972) disconnected (empty data)
+2025-02-25 17:58:44,764 - INFO - Connection closed with ('127.0.0.1', 54972)
+2025-02-25 17:58:44,764 - INFO - Removed assassaas from clients list
+2025-02-25 17:58:46,235 - INFO - Client ('127.0.0.1', 54942) disconnected (empty data)
+2025-02-25 17:58:46,236 - INFO - Connection closed with ('127.0.0.1', 54942)
+2025-02-25 17:58:46,236 - INFO - Removed asas from clients list
+2025-02-25 17:58:51,137 - INFO - Server shutting down due to keyboard interrupt
+2025-02-25 17:58:51,137 - INFO - Server shutting down...
+2025-02-25 18:04:08,967 - INFO - Server starting up...
+2025-02-25 18:04:08,968 - INFO - Server listening on 127.0.0.1:12312
+2025-02-25 18:04:08,968 - INFO - Server main loop starting - waiting for connections
+2025-02-25 18:04:13,847 - INFO - Accepted connection from ('127.0.0.1', 55166)
+2025-02-25 18:04:13,850 - INFO - New connection from ('127.0.0.1', 55166)
+2025-02-25 18:04:17,115 - INFO - Client ('127.0.0.1', 55166) sent nickname: assa
+2025-02-25 18:04:17,116 - INFO - Client ('127.0.0.1', 55166) connected with nickname assa, color: #04410a
+2025-02-25 18:04:17,116 - INFO - Sending initial position to assa: 221,148
+2025-02-25 18:04:40,200 - INFO - Accepted connection from ('127.0.0.1', 55184)
+2025-02-25 18:04:40,201 - INFO - New connection from ('127.0.0.1', 55184)
+2025-02-25 18:04:44,277 - INFO - Client ('127.0.0.1', 55184) sent nickname: afaf
+2025-02-25 18:04:44,277 - INFO - Client ('127.0.0.1', 55184) connected with nickname afaf, color: #a434a1
+2025-02-25 18:04:44,277 - INFO - Sending initial position to afaf: 336,160
+2025-02-25 18:05:15,839 - INFO - Client ('127.0.0.1', 55184) disconnected (empty data)
+2025-02-25 18:05:15,840 - INFO - Connection closed with ('127.0.0.1', 55184)
+2025-02-25 18:05:15,840 - INFO - Removed afaf from clients list
+2025-02-25 18:05:16,979 - INFO - Client ('127.0.0.1', 55166) disconnected (empty data)
+2025-02-25 18:05:16,980 - INFO - Connection closed with ('127.0.0.1', 55166)
+2025-02-25 18:05:16,980 - INFO - Removed assa from clients list
+2025-02-25 18:10:28,648 - INFO - Server shutting down due to keyboard interrupt
+2025-02-25 18:10:28,649 - INFO - Server shutting down...
+2025-02-25 18:10:31,512 - INFO - Server starting up...
+2025-02-25 18:10:31,513 - INFO - Server listening on 127.0.0.1:12312
+2025-02-25 18:10:31,513 - INFO - Server main loop starting - waiting for connections
+2025-02-25 18:10:35,213 - INFO - Accepted connection from ('127.0.0.1', 55611)
+2025-02-25 18:10:35,214 - INFO - New connection from ('127.0.0.1', 55611)
+2025-02-25 18:10:38,143 - INFO - Client ('127.0.0.1', 55611) sent nickname: saassa
+2025-02-25 18:10:38,143 - INFO - Client ('127.0.0.1', 55611) connected with nickname saassa, color: #ae0300
+2025-02-25 18:10:38,143 - INFO - Sending initial position to saassa: 395,360
+2025-02-25 18:10:43,201 - INFO - Accepted connection from ('127.0.0.1', 55620)
+2025-02-25 18:10:43,201 - INFO - New connection from ('127.0.0.1', 55620)
+2025-02-25 18:10:45,792 - INFO - Client ('127.0.0.1', 55620) sent nickname: aafaf
+2025-02-25 18:10:45,792 - INFO - Client ('127.0.0.1', 55620) connected with nickname aafaf, color: #ce1f92
+2025-02-25 18:10:45,793 - INFO - Sending initial position to aafaf: 150,448
+2025-02-25 18:11:19,593 - INFO - Client ('127.0.0.1', 55620) disconnected (empty data)
+2025-02-25 18:11:19,593 - INFO - Connection closed with ('127.0.0.1', 55620)
+2025-02-25 18:11:19,593 - INFO - Removed aafaf from clients list
+2025-02-25 18:11:21,259 - INFO - Client ('127.0.0.1', 55611) disconnected (empty data)
+2025-02-25 18:11:21,259 - INFO - Connection closed with ('127.0.0.1', 55611)
+2025-02-25 18:11:21,259 - INFO - Removed saassa from clients list
+2025-02-25 18:18:00,006 - INFO - Accepted connection from ('127.0.0.1', 55814)
+2025-02-25 18:18:00,008 - INFO - New connection from ('127.0.0.1', 55814)
+2025-02-25 18:18:02,364 - INFO - Client ('127.0.0.1', 55814) sent nickname: assa
+2025-02-25 18:18:02,365 - INFO - Client ('127.0.0.1', 55814) connected with nickname assa, color: #be8522
+2025-02-25 18:18:02,365 - INFO - Sending initial position to assa: 161,269
+2025-02-25 18:18:06,595 - INFO - Accepted connection from ('127.0.0.1', 55820)
+2025-02-25 18:18:06,597 - INFO - New connection from ('127.0.0.1', 55820)
+2025-02-25 18:18:08,031 - INFO - Client ('127.0.0.1', 55820) sent nickname: afaf
+2025-02-25 18:18:08,031 - INFO - Client ('127.0.0.1', 55820) connected with nickname afaf, color: #2d70e8
+2025-02-25 18:18:08,031 - INFO - Sending initial position to afaf: 460,185
+2025-02-25 18:18:31,920 - INFO - Client ('127.0.0.1', 55820) disconnected (empty data)
+2025-02-25 18:18:31,920 - INFO - Connection closed with ('127.0.0.1', 55820)
+2025-02-25 18:18:31,921 - INFO - Removed afaf from clients list
+2025-02-25 18:19:11,216 - INFO - Client ('127.0.0.1', 55814) disconnected (empty data)
+2025-02-25 18:19:11,217 - INFO - Connection closed with ('127.0.0.1', 55814)
+2025-02-25 18:19:11,217 - INFO - Removed assa from clients list
+2025-02-25 18:19:14,259 - INFO - Server shutting down due to keyboard interrupt
+2025-02-25 18:19:14,260 - INFO - Server shutting down...
+2025-02-25 18:19:21,600 - INFO - Server starting up...
+2025-02-25 18:19:21,600 - INFO - Server listening on 127.0.0.1:12312
+2025-02-25 18:19:21,600 - INFO - Server main loop starting - waiting for connections
+2025-02-25 18:19:25,591 - INFO - Accepted connection from ('127.0.0.1', 55872)
+2025-02-25 18:19:25,592 - INFO - New connection from ('127.0.0.1', 55872)
+2025-02-25 18:19:27,775 - INFO - Client ('127.0.0.1', 55872) sent nickname: fire
+2025-02-25 18:19:27,775 - INFO - Client ('127.0.0.1', 55872) connected with nickname fire, color: #0e2783
+2025-02-25 18:19:27,775 - INFO - Sending initial position to fire: 585,350
+2025-02-25 18:19:32,481 - INFO - Accepted connection from ('127.0.0.1', 55878)
+2025-02-25 18:19:32,481 - INFO - New connection from ('127.0.0.1', 55878)
+2025-02-25 18:19:35,212 - INFO - Client ('127.0.0.1', 55878) sent nickname: boi
+2025-02-25 18:19:35,212 - INFO - Client ('127.0.0.1', 55878) connected with nickname boi, color: #0ebeb8
+2025-02-25 18:19:35,212 - INFO - Sending initial position to boi: 559,221
+2025-02-25 18:20:24,808 - INFO - Client ('127.0.0.1', 55872) disconnected (empty data)
+2025-02-25 18:20:24,809 - INFO - Connection closed with ('127.0.0.1', 55872)
+2025-02-25 18:20:24,809 - INFO - Removed fire from clients list
+2025-02-25 18:20:26,174 - INFO - Client ('127.0.0.1', 55878) disconnected (empty data)
+2025-02-25 18:20:26,174 - INFO - Connection closed with ('127.0.0.1', 55878)
+2025-02-25 18:20:26,174 - INFO - Removed boi from clients list
+2025-02-25 19:52:58,613 - INFO - Server shutting down due to keyboard interrupt
+2025-02-25 19:52:58,614 - INFO - Server shutting down...

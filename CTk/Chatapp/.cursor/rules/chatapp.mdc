@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# What are we building
+we are building a chat app
+it should have these features:
+1. server side
+2. client side
+3. gui
+
+# GUI specifications
+
+1. Main screen with a chat scroll box and a text entry box with a keybind where you can just press enter to send the messages
+2. Sliding in/out options frame from left to right and should push out the main screen out of the way
+3. top bar with a time on the right of the top bar and settings button on the left
